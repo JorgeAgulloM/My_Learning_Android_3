@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EventPoint</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dateHour">Date and time of the event</string>
+    <string name="notSelect">You cannot select a time before the current one</string>
+    <string name="dateIs">The selected date is: \n \n</string>
+    <string name="att">at</string>
+    <string name="selectEvent">Select an event to see its location</string>
+    <string name="in">in</string>
+    <string name="nameAndPlace">Name and place of the event</string>
+    <string name="noDirection">No address to look.</string>
+    <string name="errorNothing">Error ... Nothing found</string>
+    <string name="errorTryAnother">Error ... Try again</string>
+    <string name="whiteNewPlaces">You must indicate a place for the event</string>
+    <string name="writeNewName">You must give the event a name</string>
+    <string name="ok">Intro</string>
+    <string name="result">result</string>
+    <string name="toContinue">Continue</string>
+    <string name="chooseAnother">Choose another</string>
+    <string name="addEvent">Add events to your list</string>
+    <string name="addNewEvent">Add new events</string>
+    <string name="textAddNameEvent">Add a name to the event</string>
+    <string name="hintAddNameEvent">Event name</string>
+    <string name="textAddAddressEvent">Enter the address of the event</string>
+    <string name="hintAddAddressEvent">Event address</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="needAddName">Please enter a name for the event</string>
+    <string name="needAddLocation">Please enter an address or city</string>
+</resources>

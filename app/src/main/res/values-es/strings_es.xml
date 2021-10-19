@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   <string name="app_name">EventPoint</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dateHour">Fecha y hora del evento</string>
+    <string name="notSelect">No puedes seleccionar una hora anterior a la actual</string>
+    <string name="dateIs">La fecha seleccionada es: \n \n</string>
+    <string name="att"> a las </string>
+    <string name="selectEvent">Selecciona un evento para ver su ubicación</string>
+    <string name="in"> en </string>
+    <string name="nameAndPlace">Nombre y lugar del evento</string>
+    <string name="noDirection">No hay dirección a buscar.</string>
+    <string name="errorNothing">Error...No se ha encontrado nada</string>
+    <string name="errorTryAnother">Error...Prueba de nuevo</string>
+    <string name="whiteNewPlaces">Debes indicar un lugar para el evento</string>
+    <string name="writeNewName">Debes dar un nombre al evento</string>
+    <string name="ok">Aceptar</string>
+    <string name="result">resultado</string>
+    <string name="toContinue">Continuar</string>
+    <string name="chooseAnother">Elegir otra</string>
+    <string name="addEvent">Añade eventos a tu lista</string>
+    <string name="addNewEvent">Añadir nuevo evento</string>
+    <string name="textAddNameEvent">Añade un nombre al evento</string>
+    <string name="hintAddNameEvent">Nombre del envento</string>
+    <string name="textAddAddressEvent">Introduce la dirección del evento</string>
+    <string name="hintAddAddressEvent">Dirección del evento</string>
+    <string name="search">Buscar</string>
+    <string name="todo">TODO</string>
+    <string name="needAddName">Por favor, introduce un nombre para el evento</string>
+    <string name="needAddLocation">Por favor, introduce una dirección o ciudad</string>
+</resources>

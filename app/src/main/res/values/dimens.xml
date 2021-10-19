@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margMin">8dp</dimen>
+    <dimen name="margCero">0dp</dimen>
+    <dimen name="margMax">24sp</dimen>
+    <dimen name="margMid">16dp</dimen>
+    <dimen name="margHeightMap">250dp</dimen>
+</resources>

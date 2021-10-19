@@ -1,0 +1,14 @@
+com/example/eventpoint/ItemEvent.java
+ com.example.eventpoint.ItemEvent
+com/example/eventpoint/ListItemEvents.java
+ com.example.eventpoint.ListItemEvents
+com/example/eventpoint/BuildConfig.java
+ com.example.eventpoint.BuildConfig
+com/example/eventpoint/MainMapsActivity.java
+ com.example.eventpoint.MainMapsActivity
+com/example/eventpoint/DateActivity.java
+ com.example.eventpoint.DateActivity
+com/example/eventpoint/AdapterEvents.java
+ com.example.eventpoint.AdapterEvents
+com/example/eventpoint/NameActivity.java
+ com.example.eventpoint.NameActivity
